@@ -1,0 +1,21 @@
+# Core libraries
+numpy>=1.21
+scipy>=1.7
+matplotlib>=3.4
+seaborn>=0.11
+
+# Machine Learning / Deep Learning
+torch>=1.10
+torchvision>=0.11
+
+# Optimization and Simplex Projection
+cvxpy>=1.2     # in case you want to verify simplex projections
+numba>=0.55    # for accelerating custom projection ops
+
+# Jupyter notebooks (optional)
+notebook
+ipython
+
+# Others
+tqdm
+pandas
