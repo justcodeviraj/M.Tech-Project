@@ -13,8 +13,6 @@ Margin Propagation (MP) is a multiplication-free framework using addition and th
 ## Structure
 
 - `src/` – Core models and algorithm implementations.
-- `experiments/` – Scripts for training, evaluation, and analysis.
-- `notebooks/` – Jupyter notebook walkthroughs.
 - `thesis/` – The full M.Tech thesis PDF.
 - `results/` – Plots, tables, and benchmark comparisons.
 
