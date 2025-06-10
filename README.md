@@ -1,5 +1,4 @@
-# M.Tech-Project
-# Efficient Training and Memory Optimization for Margin Propagation Networks
+# M.Tech Thesis: Efficient Training and Memory Optimization for Margin Propagation Networks
 
 This repository contains the code and experiments from my M.Tech thesis at IISc Bangalore, under the guidance of Prof. Chiranjib Bhattacharyya and Prof. Chetan Singh Thakur.
 
