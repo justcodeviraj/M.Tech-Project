@@ -4,7 +4,7 @@ This repository contains the code and experiments from my M.Tech thesis at IISc 
 
 ## Overview
 
-Margin Propagation (MP) is a multiplication-free neural framework using addition and thresholding, enabling energy-efficient inference on edge devices. This thesis introduces:
+Margin Propagation (MP) is a multiplication-free framework using addition and thresholding, enabling energy-efficient inference on edge devices. This thesis introduces:
 - Theoretical error bounds for MP approximation.
 - Efficient weight porting from MLP to MP networks.
 - A connection between MP and Simplex Projection for memory-efficient training.
